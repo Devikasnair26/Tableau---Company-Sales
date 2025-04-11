@@ -16,3 +16,7 @@ It identifies orders that are not blocked but still face stock shortages, highli
 
 Purpose:
 The goal of this visualization is to provide a clear overview of sales performance, order fulfillment issues, and supply chain bottlenecks. By analyzing these factors, it aims to help improve forecasting accuracy, streamline order processing, and optimize inventory management.
+
+### Link to the viz 
+
+https://public.tableau.com/views/CompanySales_17438102966640/CompanySales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
